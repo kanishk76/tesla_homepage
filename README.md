@@ -43,13 +43,7 @@ Deployed [here](https://tesla.ui-clone.ronne.dev/).
 
 <br>
 
-## Installation :wrench:
 
-First you need to clone the project using `git clone https://github.com/leoronne/tesla-homepage-ui-clone.git`.
-
-You can install the application using `npm install` or `yarn install` on the root dir.
-
-<br>
 
 ## Start :on:
 
