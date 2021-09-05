@@ -76,17 +76,4 @@ To start the application interface just run `npm start` or `yarn start` on the r
 
 <br>
 
-## Contributing 🤔
 
-Please read [CONTRIBUTING](https://github.com/leoronne/tesla-homepage-ui-clone/blob/master/CONTRIBUTING.md) for details on code of conduct, and the process for submitting pull requests to the project.
-
-<br>
-
-## License :memo:
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](https://github.com/leoronne/tesla-homepage-ui-clone/blob/master/LICENSE)**;
-- Copyright 2020 © <a href="https://github.com/leoronne" target="_blank">Leonardo Ronne</a>.
-
-##
